@@ -33,14 +33,14 @@ section {
 }
 h2 {
   font-size: 25px;
-  color: #000000;
+  color: #ff1e00;
   border-bottom: 1px solid #ccc;
   padding-bottom: 15px;
   margin-bottom: 20px;
 }
 h3 {
   font-size: 18px;
-  color: #ff1e00;
+  color: #000;
   margin-top: 25px;
   margin-bottom: 10px;
 }
